@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #78a3cf;
+  color: #87a1e7;
+}
+
+header {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+h1 {
+  margin: 1.5rem 0;
+  font-size: 3rem;
+}
+
+p {
+  margin: 0.5rem 0;
+  font-size: 1.5rem;
+}
+
+/* Experience Section */
+.experience-section {
+  padding: 13rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.job {
+  background: rgb(187, 177, 177);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.job h2 {
+  color: #4224bb;
+  margin-bottom: 0.5rem;
+}
+.job p {
+  color: black;
+}
+footer {
+  text-align: center;
+  padding: 3.5rem;
+  background: black;
+  color: white;
+}
+
+footer a {
+  color: #1d57ea;
+  text-decoration: none;
+}
